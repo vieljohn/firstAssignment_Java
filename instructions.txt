@@ -1,0 +1,13 @@
+Write a program that asks the user to enter the total purchase amount
+
+>Apply the following discount using conditional
+
+* 1000 and Above = 20% discount
+* 500 - 999 = 10%
+* Below 500 = no discount
+
+Display the discount amount and final price
+
+State whether the final price is an odd or even number
+
+submission : aug 27 2000
