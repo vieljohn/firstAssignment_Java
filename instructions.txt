@@ -10,4 +10,4 @@ Display the discount amount and final price
 
 State whether the final price is an odd or even number
 
-submission : aug 27 2000
+submission : aug 27 
