@@ -1,9 +1,6 @@
 
 import java.util.Scanner;
 
-
-
-
 public class JavaAssign01 {
         public static void main(String[] args) {
 
